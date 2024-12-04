@@ -61,13 +61,13 @@
         socials: [
           {
             name: "Instagram",
-            link: "https://twitter.com/AnirudhWith",
+            link: "https://www.instagram.com/khal.aasiyah/profilecard/?igsh=MXBubGkyd2FxY290cQ%3D%3D",
             description:
               "Follow me on Instagram for updates and musings about balancing my life as a college student",
           },
           {
             name: "LinkedIn",
-            link: "https://www.linkedin.com/in/anirudhsriramb/",
+            link: "https://www.linkedin.com/in/khaleeqa-garrett-249086299/",
             description:
               "Connect with me on LinkedIn to stay updated on my professional journey and collaborations.",
           },
