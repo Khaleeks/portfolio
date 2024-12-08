@@ -23,7 +23,7 @@
   // Insert the image and text dynamically
   aboutSection.innerHTML = `
       <div class="about-image-wrapper">
-          <img src="${about.image}" alt="Your Name" class="about-image" />
+          <img src="${about.image}" alt="Khaleeqa" class="about-image" />
       </div>
       <h3 class="section-heading">${about.title}</h3>
   `;
