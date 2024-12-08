@@ -503,3 +503,10 @@ svg{
 	position: initial!important;
 	opacity: 1!important;
 }
+
+.about-image {
+  width: 500px; 
+  height: auto;  
+  display: block; 
+  margin: 0 auto; 
+}
