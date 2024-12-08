@@ -71,10 +71,16 @@
 
         socials: [
           {
+            name: "Mail",
+            link: "mailto:kag9691@nyu.edu",
+            description:
+              "Reach out via email to collaborate or discuss exciting opportunities!",
+          },
+          {
             name: "Instagram",
             link: "https://www.instagram.com/khal.aasiyah/profilecard/?igsh=MXBubGkyd2FxY290cQ%3D%3D",
             description:
-              "Follow me on Instagram for updates and musings about balancing my life as a college student",
+              "Follow me on Instagram for updates and musings about balancing my life as a college student.",
           },
           {
             name: "LinkedIn",
