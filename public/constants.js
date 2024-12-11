@@ -1,3 +1,5 @@
+      
+      
       const hero = {
         name: "Khaleeqa Aasiyah Garrett",
         title: "Young Tech Enthusiast |Computer Science Major |IM Minor",
@@ -11,7 +13,7 @@
    My journey into the tech world began in high school, where I once aspired to become a biomedical engineer. However, life had a different path in store for me. Over time, I found myself captivated by the intersection of technology, design, and creativity. I’ve worked on projects leveraging powerful libraries like TensorFlow, p5.js, ml5.js, and Three.js, exploring everything from machine learning to interactive web design.
    ---
    Currently, I am developing StorkCare+, a telehealth app designed for expectant mothers. This app helps them schedule appointments, track baby development, and set medication reminders—all from the comfort of their own homes. I’m excited about the impact it could have in making healthcare more accessible and supportive during pregnancy.`,
-       image: "/social/khal.jpg",
+       image: "/khal.jpg",
        cvLink: "/social/KhaleeqaAGarrett_Resume.pdf"
   };
 
