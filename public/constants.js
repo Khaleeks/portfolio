@@ -1,9 +1,10 @@
       
       
-      const hero = {
-        name: "Khaleeqa Aasiyah Garrett",
-        title: "Young Tech Enthusiast |Computer Science Major |IM Minor",
-      };
+     const hero = {
+      name: "Khaleeqa Aasiyah Garrett", 
+      secondSubName: "Khaleeqa's Portfolio", 
+      title: "Young Tech Enthusiast | Computer Science Major | IM Minor", 
+    };
 
       const about = {
         title: "Hello welcome to my youtube channel!",
@@ -12,14 +13,12 @@
    ---
    My journey into the tech world began in high school, where I once aspired to become a biomedical engineer. However, life had a different path in store for me. Over time, I found myself captivated by the intersection of technology, design, and creativity. I’ve worked on projects leveraging powerful libraries like TensorFlow, p5.js, ml5.js, and Three.js, exploring everything from machine learning to interactive web design.
    ---
-   Currently, I am developing StorkCare+, a telehealth app designed for expectant mothers. This app helps them schedule appointments, track baby development, and set medication reminders—all from the comfort of their own homes. I’m excited about the impact it could have in making healthcare more accessible and supportive during pregnancy.`,
-       image: "/khal.jpg",
-       cvLink: "/social/KhaleeqaAGarrett_Resume.pdf"
+   Currently, I am developing StorkCare+, a telehealth app designed for expectant mothers. This app helps them schedule appointments, track baby development, and set medication reminders—all from the comfort of their own homes. I’m excited about the impact it could have in making healthcare more accessible and supportive during pregnancy.
+   ---
+   <a href="/KhaleeqaAGarrett_Resume.pdf" target="_blank" style="font-weight: bold;">View my Curriculum Vitae</a>`,
+       
+   image: "/khal.jpg"
   };
-
-  const cvLinkContainer = document.getElementById('cv-link-container');
-  const cvLinkHTML = `<a href="${about.cvLink}" target="_blank" rel="noopener noreferrer">Download my CV</a>`;
-  cvLinkContainer.innerHTML = cvLinkHTML;
   const aboutSection = document.getElementById("about-me");
 
   // Insert the image and text dynamically

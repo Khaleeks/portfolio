@@ -510,3 +510,12 @@ svg{
   display: block; 
   margin: 0 auto; 
 }
+
+a {
+  color: #333332; 
+  text-decoration: none; 
+}
+
+a:hover {
+  color: #31511E; 
+}

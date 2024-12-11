@@ -5,7 +5,7 @@ const hero2ndSHdng = document.querySelector(".hero-second-subheading");
 
 heroMainTitle.innerHTML = hero.name;
 heroMainDesce.innerHTML = hero.title;
-hero2ndSHdng.innerHTML = hero.name.replace(/\s/g, "");
+hero2ndSHdng.innerHTML = hero.secondSubName;
 
 const aboutHeading = document.querySelector("#about-me .section-heading");
 
