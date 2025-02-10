@@ -14,7 +14,7 @@
    ---
    Currently, I am developing StorkCare+, a telehealth app designed for expectant mothers. This app helps them schedule appointments, track baby development, and set medication reminders—all from the comfort of their own homes. I’m excited about the impact it could have in making healthcare more accessible and supportive during pregnancy.`,
        image: "/khal.jpg",
-       cvLink: "/social/KhaleeqaAGarrett_Resume.pdf"
+       cvLink: "/social/KhaleeqaAasiyahGarrett_Resume.pdf"
   };
 
   const cvLinkContainer = document.getElementById('cv-link-container');
